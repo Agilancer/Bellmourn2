@@ -1488,8 +1488,8 @@
     "enter": 0.057143,
     "link": 0.342857,
     "edge": [
-     0.968,
-     -0.251
+     0.967,
+     -0.256
     ]
    },
    "names": [
@@ -1777,8 +1777,8 @@
     "enter": 0.057143,
     "link": 0.314286,
     "edge": [
-     0.779,
-     -0.627
+     0.78,
+     -0.626
     ]
    },
    "names": [
@@ -1934,8 +1934,8 @@
     "enter": 0.057143,
     "link": 0.371429,
     "edge": [
-     -0.026,
-     -1.0
+     -0.064,
+     -0.998
     ]
    },
    "names": [
@@ -2564,8 +2564,8 @@
     "enter": 0.057143,
     "link": 0.314286,
     "edge": [
-     0.987,
-     -0.159
+     0.988,
+     -0.157
     ]
    },
    "names": [
@@ -3418,6 +3418,48 @@
    "ref": [
     "OverhandThrow"
    ]
+  },
+  "staff_lift": {
+   "kind": "cast",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.057143,
+    0.114286,
+    0.171429,
+    0.2,
+    0.228571,
+    0.285714,
+    0.314286,
+    0.371429,
+    0.428571,
+    0.485714
+   ],
+   "events": {
+    "duration": 0.542857,
+    "fire": [
+     0.2
+    ]
+   },
+   "names": [
+    "CARRY",
+    "LIFT 1",
+    "LIFT 2",
+    "TOP",
+    "FIRE",
+    "RECOIL",
+    "HOLD",
+    "LOWER 1",
+    "LOWER 2",
+    "LOWER 3",
+    "SETTLE"
+   ],
+   "sides": "R",
+   "ref": []
   }
  },
  "slots": {
@@ -3611,6 +3653,15 @@
    "title": "Staff",
    "options": [
     {
+     "id": "lift",
+     "name": "Lift",
+     "chain": [
+      "staff_lift"
+     ],
+     "ref": "(your note: just a lift to shoot)",
+     "note": "no swing: the staff rises upright, the bolt leaves its head at the top"
+    },
+    {
      "id": "point",
      "name": "Raise and point",
      "chain": [
@@ -3627,7 +3678,7 @@
      "ref": "UAL2 OverhandThrow"
     }
    ],
-   "default": "point"
+   "default": "lift"
   },
   "onehand1": {
    "title": "One-handed weapon, key 1",
