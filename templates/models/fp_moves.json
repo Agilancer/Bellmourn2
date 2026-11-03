@@ -10,6 +10,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -42,6 +43,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -74,6 +76,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -106,6 +109,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -138,6 +142,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -170,6 +175,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -202,6 +208,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -234,6 +241,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.15,
    "starts": [
     0.0,
@@ -292,6 +300,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -338,6 +347,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -384,6 +394,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -430,6 +441,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -492,6 +504,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -536,6 +549,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -580,6 +594,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -624,6 +639,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -686,6 +702,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -728,6 +745,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -770,6 +788,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -812,6 +831,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -873,6 +893,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -915,6 +936,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -957,6 +979,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -999,6 +1022,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1071,6 +1095,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1143,6 +1168,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.25,
    "starts": [
     0.0,
@@ -1215,6 +1241,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.2,
    "starts": [
     0.0,
@@ -1281,6 +1308,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1357,6 +1385,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1427,6 +1456,7 @@
    "heavy": true,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1491,6 +1521,7 @@
    "heavy": true,
    "roll": false,
    "stab": true,
+   "noslide": false,
    "power": 1.1,
    "starts": [
     0.0,
@@ -1556,11 +1587,1276 @@
     "swing2h"
    ]
   },
+  "blade_d1": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     -0.764,
+     -0.645
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_d1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_d1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_d2": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     0.779,
+     -0.627
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_d2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_d2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_over": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.15,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714,
+    "hit": [
+     0.228571
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.371429,
+    "edge": [
+     -0.026,
+     -1.0
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "WIND >",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_over": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "WIND >",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_over": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "WIND >",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_rise1": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     -0.906,
+     0.423
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_rise1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_rise1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_rise2": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     0.887,
+     0.462
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_rise2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_rise2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_flat1": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     -0.973,
+     -0.23
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_flat1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_flat1": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_flat2": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": true,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571,
+    "hit": [
+     0.171429
+    ],
+    "whoosh": [
+     0.057143
+    ],
+    "enter": 0.057143,
+    "link": 0.314286,
+    "edge": [
+     0.987,
+     -0.159
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_flat2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_flat2": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4
+   ],
+   "events": {
+    "duration": 0.428571
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "WIND",
+    "WIND >",
+    "LAG",
+    "LAG >",
+    "HIT",
+    "HIT >",
+    "FOLLOW",
+    "FOLLOW >",
+    "OFF",
+    "OFF >",
+    "OFF >",
+    "OFF >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "blade_stab": {
+   "kind": "attack",
+   "heavy": false,
+   "roll": false,
+   "stab": true,
+   "noslide": true,
+   "power": 1.1,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714,
+    "hit": [
+     0.228571
+    ],
+    "whoosh": [
+     0.114286
+    ],
+    "enter": 0.114286,
+    "link": 0.371429,
+    "edge": [
+     -0.367,
+     -0.93
+    ]
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "DRAW",
+    "DRAW >",
+    "CHAMBER",
+    "CHAMBER >",
+    "THRUST",
+    "THRUST >",
+    "HIT",
+    "HIT >",
+    "HIT",
+    "HIT >",
+    "RECOVER",
+    "RECOVER >",
+    "RECOVER >",
+    "RECOVER >",
+    "GUARD"
+   ],
+   "sides": "R",
+   "ref": [
+    "swing1h"
+   ]
+  },
+  "round_aside_stab": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "DRAW",
+    "DRAW >",
+    "CHAMBER",
+    "CHAMBER >",
+    "THRUST",
+    "THRUST >",
+    "HIT",
+    "HIT >",
+    "HIT",
+    "HIT >",
+    "RECOVER",
+    "RECOVER >",
+    "RECOVER >",
+    "RECOVER >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
+  "kite_aside_stab": {
+   "kind": "aside",
+   "heavy": false,
+   "roll": false,
+   "stab": false,
+   "noslide": false,
+   "power": 1.0,
+   "starts": [
+    0.0,
+    0.028571,
+    0.057143,
+    0.085714,
+    0.114286,
+    0.142857,
+    0.171429,
+    0.2,
+    0.228571,
+    0.257143,
+    0.285714,
+    0.314286,
+    0.342857,
+    0.371429,
+    0.4,
+    0.428571,
+    0.457143
+   ],
+   "events": {
+    "duration": 0.485714
+   },
+   "names": [
+    "GUARD",
+    "GUARD >",
+    "DRAW",
+    "DRAW >",
+    "CHAMBER",
+    "CHAMBER >",
+    "THRUST",
+    "THRUST >",
+    "HIT",
+    "HIT >",
+    "HIT",
+    "HIT >",
+    "RECOVER",
+    "RECOVER >",
+    "RECOVER >",
+    "RECOVER >",
+    "GUARD"
+   ],
+   "sides": "L",
+   "ref": []
+  },
   "sword_stab": {
    "kind": "attack",
    "heavy": false,
    "roll": false,
    "stab": true,
+   "noslide": false,
    "power": 1.1,
    "starts": [
     0.0,
@@ -1603,6 +2899,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1648,6 +2945,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1693,6 +2991,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1729,6 +3028,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1781,6 +3081,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1823,6 +3124,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1874,6 +3176,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1922,6 +3225,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -1973,6 +3277,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -2025,6 +3330,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -2069,6 +3375,7 @@
    "heavy": false,
    "roll": false,
    "stab": false,
+   "noslide": false,
    "power": 1.0,
    "starts": [
     0.0,
@@ -2118,6 +3425,17 @@
    "title": "One-handed weapon",
    "options": [
     {
+     "id": "lines",
+     "name": "Combo 1: cut, cut, overhead (your video)",
+     "chain": [
+      "blade_d1",
+      "blade_d2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "every cut along its line through the crosshair"
+    },
+    {
      "id": "combo",
      "name": "Combo: cut, backhand, rising",
      "chain": [
@@ -2161,7 +3479,7 @@
      "note": "straight down; slower, lands harder"
     }
    ],
-   "default": "combo"
+   "default": "lines"
   },
   "twohand": {
    "title": "Two-handed weapon (left click)",
@@ -2310,6 +3628,206 @@
     }
    ],
    "default": "point"
+  },
+  "onehand1": {
+   "title": "One-handed weapon, key 1",
+   "options": [
+    {
+     "id": "combo",
+     "name": "d1 then d2 then over",
+     "chain": [
+      "blade_d1",
+      "blade_d2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "onehand2": {
+   "title": "One-handed weapon, key 2",
+   "options": [
+    {
+     "id": "combo",
+     "name": "rise1 then rise2 then stab",
+     "chain": [
+      "blade_rise1",
+      "blade_rise2",
+      "blade_stab"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "onehand3": {
+   "title": "One-handed weapon, key 3",
+   "options": [
+    {
+     "id": "combo",
+     "name": "flat1 then flat2 then over",
+     "chain": [
+      "blade_flat1",
+      "blade_flat2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "onehand4": {
+   "title": "One-handed weapon, key 4",
+   "options": [
+    {
+     "id": "combo",
+     "name": "stab then d1 then d2",
+     "chain": [
+      "blade_stab",
+      "blade_d1",
+      "blade_d2"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "onehand5": {
+   "title": "One-handed weapon, key 5",
+   "options": [
+    {
+     "id": "combo",
+     "name": "over then rise1 then flat1",
+     "chain": [
+      "blade_over",
+      "blade_rise1",
+      "blade_flat1"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "onehand6": {
+   "title": "One-handed weapon, key 6",
+   "options": [
+    {
+     "id": "combo",
+     "name": "d2 then flat2 then stab then over",
+     "chain": [
+      "blade_d2",
+      "blade_flat2",
+      "blade_stab",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt1": {
+   "title": "Mace, hammer or club, key 1",
+   "options": [
+    {
+     "id": "combo",
+     "name": "d1 then d2 then over",
+     "chain": [
+      "blade_d1",
+      "blade_d2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt2": {
+   "title": "Mace, hammer or club, key 2",
+   "options": [
+    {
+     "id": "combo",
+     "name": "rise1 then rise2 then over",
+     "chain": [
+      "blade_rise1",
+      "blade_rise2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt3": {
+   "title": "Mace, hammer or club, key 3",
+   "options": [
+    {
+     "id": "combo",
+     "name": "flat1 then flat2 then over",
+     "chain": [
+      "blade_flat1",
+      "blade_flat2",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt4": {
+   "title": "Mace, hammer or club, key 4",
+   "options": [
+    {
+     "id": "combo",
+     "name": "over then d1 then d2",
+     "chain": [
+      "blade_over",
+      "blade_d1",
+      "blade_d2"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt5": {
+   "title": "Mace, hammer or club, key 5",
+   "options": [
+    {
+     "id": "combo",
+     "name": "over then rise1 then flat1",
+     "chain": [
+      "blade_over",
+      "blade_rise1",
+      "blade_flat1"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
+  },
+  "blunt6": {
+   "title": "Mace, hammer or club, key 6",
+   "options": [
+    {
+     "id": "combo",
+     "name": "d2 then flat2 then over then over",
+     "chain": [
+      "blade_d2",
+      "blade_flat2",
+      "blade_over",
+      "blade_over"
+     ],
+     "ref": "your sword-and-shield video",
+     "note": "bonks: no stabbing"
+    }
+   ],
+   "default": "combo"
   }
  }
 }
