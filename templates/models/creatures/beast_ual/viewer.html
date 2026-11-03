@@ -70,7 +70,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 
-const SKINS = ['beast_goat'];          // one per species as they are approved
+const SKINS = ['beast_goat', 'beast_wolf'];          // one per species as they are approved
 const MODEL = (new URLSearchParams(location.search).get('model') || SKINS[0]) + (/\.glb$/.test(new URLSearchParams(location.search).get('model') || '') ? '' : '.glb');
 const $ = (id) => document.getElementById(id);
 
@@ -124,7 +124,8 @@ setLight();
 
 let mixer, root, action, clips = [], current = -1, playing = true;
 // contact frames (s) of the species attacks: a ring flashes on the floor there (the game's hit cue)
-const HITS = { Goat_Ram_Charge: [33 / 24, 0.75], Goat_Hammer: [27 / 24, 0.6], Goat_Leap: [30 / 24, 0.0] };
+const HITS = { Goat_Ram_Charge: [33 / 24, 0.75], Goat_Hammer: [27 / 24, 0.6], Goat_Leap: [30 / 24, 0.0],
+  Wolf_Rake: [27 / 24, 0.7], Wolf_Lunge_Bite: [22 / 24, 0.9], Wolf_Pounce: [36 / 24, 0.55] };
 const ring = new THREE.Mesh(new THREE.RingGeometry(0.18, 0.26, 48),
   new THREE.MeshBasicMaterial({ color: 0xffb060, transparent: true, opacity: 0, depthWrite: false }));
 ring.rotation.x = -Math.PI / 2; ring.position.y = 0.012; scene.add(ring);
