@@ -1,0 +1,20 @@
+{
+ "id": "scythe",
+ "name": "Red Scythe Leathers",
+ "kind": "armour set for the villagers (skinned to their CharacterArmature)",
+ "gauntlet": "brawler",
+ "description": "The mountain reavers' war harness: red boiled leather in lames and straps, blackened iron at the joints, crimson pteruges to the knee, one great spiked pauldron, a bone-white scythe on the breast and back, and a blackened great helm banded in red leather. Not sworn to Velscour.",
+ "files": {
+  "male": "scythe_m.glb",
+  "female": "scythe_f.glb"
+ },
+ "meshes": {
+  "Armor": "body, arms, legs and the set's gauntlets",
+  "Helm": "the helm (optional)"
+ },
+ "hide_when_worn": [
+  "the villager's body meshes (every mesh not named V_*)",
+  "V_Hair* while the Helm shows"
+ ],
+ "built_by": "tools/armor/build.py (in the live Blender via MCP)"
+}
